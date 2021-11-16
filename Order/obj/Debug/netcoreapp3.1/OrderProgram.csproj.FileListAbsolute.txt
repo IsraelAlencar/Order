@@ -1,0 +1,14 @@
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.csproj.AssemblyReference.cache
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.AssemblyInfoInputs.cache
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.AssemblyInfo.cs
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.csproj.CoreCompileInputs.cache
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.exe
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.deps.json
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.runtimeconfig.json
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.runtimeconfig.dev.json
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.dll
+C:\Users\israe\source\repos\Order\Order\bin\Debug\netcoreapp3.1\OrderProgram.pdb
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.dll
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.pdb
+C:\Users\israe\source\repos\Order\Order\obj\Debug\netcoreapp3.1\OrderProgram.genruntimeconfig.cache
